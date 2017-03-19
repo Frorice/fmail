@@ -4,7 +4,12 @@ const Koa = require('koa');
 const port = process.argv[2];
 
 const app = new Koa();
-
+/*
+ @todo  使用静态资源服务
+        使用session
+        使用请求体解析
+        配置路由
+*/
 app.listen(port,(err) => {
   if(err){
     console.error(err);
