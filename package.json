@@ -1,0 +1,32 @@
+{
+  "name": "fmail",
+  "version": "1.0.0",
+  "description": "一个web邮件客户端",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frorice/fmail.git"
+  },
+  "keywords": [
+    "web",
+    "web邮件",
+    "邮件客户端"
+  ],
+  "author": "frorice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frorice/fmail/issues"
+  },
+  "homepage": "https://github.com/Frorice/fmail#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.1.0",
+    "koa-router": "^5.4.0",
+    "koa-session": "^5.0.0",
+    "koa-static": "^3.0.0",
+    "mongoose": "^4.9.0"
+  }
+}
