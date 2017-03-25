@@ -29,5 +29,9 @@
     "koa-session": "^5.0.0",
     "koa-static": "^3.0.0",
     "mongoose": "^4.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
   }
 }
