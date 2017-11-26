@@ -1,0 +1,22 @@
+[{
+	"name": "同学",
+	"contactors":[{
+		"name": "frorice",
+		"remarks": "丰凡",
+		"mailAddress": "frorice@fmail.com",
+		"groups": ["同学", "朋友"]
+	},{
+		"name": "fanfan",
+		"remarks": "丰凡",
+		"mailAddress": "frorice@fmail.com",
+		"groups": ["同学"]
+	}]
+},{
+	"name": "朋友",
+	"contactors":[{
+		"name": "frorice",
+		"remarks": "丰凡",
+		"mailAddress": "frorice@fmail.com",
+		"groups": ["同学", "朋友"]
+	}]
+}]
